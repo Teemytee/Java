@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5edd9511-f712-4216-b254-b8bc90896f83" name="Default Changelist" comment="">
+    <list default="true" id="333dec0d-7ece-444f-a64b-eb5ed0b43a96" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../catch_the_drop/src/ru/geekbrains/catch_the_drop/GameWindow.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../hello_world/hello_world.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Python_projects/MergeSort/main.py" beforeDir="false" />
@@ -743,7 +743,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../" />
   </component>
-  <component name="ProjectId" id="1jIEMg02M83YzusvTIaJ8hgUUPg" />
+  <component name="ProjectId" id="1jStWOJx5BQQhLthDlh1eBrHdPL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -752,7 +752,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="HomeWork2" />
+      <module name="HomeWork3" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -771,30 +771,46 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5edd9511-f712-4216-b254-b8bc90896f83" name="Default Changelist" comment="" />
-      <created>1603483158173</created>
+      <changelist id="333dec0d-7ece-444f-a64b-eb5ed0b43a96" name="Default Changelist" comment="" />
+      <created>1603809351542</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1603483158173</updated>
+      <updated>1603809351542</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1603632065070">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1603997629163">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603632065070" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1603632065070">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603997629163" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1603997629163">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603632065070" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1603632065070">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603997629163" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1603997629163">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603632065070" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1603632065070">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603997629163" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1603997629163">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603632065070" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603997629163" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1603992883562">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603992883562" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1603992883562">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603992883562" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1603992883562">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603992883562" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1603992883562">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603992883562" />
   </component>
 </project>
