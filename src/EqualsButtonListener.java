@@ -12,7 +12,18 @@ public class EqualsButtonListener implements ActionListener {
 
     @Override
     public void actionPerformed(ActionEvent e) {
-        MyWindow.secondDigit = Integer.parseInt(inputField.getText());
+        /*
+        В случае, если пользователь по ошибке нажмет
+        операцию вычисления, до того как введет второе число
+        этот if его подхватит и не даст калькулятору рухнуть
+         */
+        if (inputField.getText().equals("")){
+            MyWindow.secondDigit = 0;
+        } else{
+            MyWindow.secondDigit = Integer.parseInt(inputField.getText());
+        }
+
+
         if (MyWindow.operation.equals("+")) {
             result = MyWindow.secondDigit + MyWindow.firstDigit;
         }
